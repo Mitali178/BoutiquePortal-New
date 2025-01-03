@@ -1,0 +1,18 @@
+C:\dotnet\Boutiqueportalm\RepoServices\bin\Debug\RepoServices.dll
+C:\dotnet\Boutiqueportalm\RepoServices\bin\Debug\RepoServices.pdb
+C:\dotnet\Boutiqueportalm\RepoServices\bin\Debug\RepoModel.dll
+C:\dotnet\Boutiqueportalm\RepoServices\bin\Debug\RepoModel.pdb
+C:\dotnet\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.csproj.AssemblyReference.cache
+C:\dotnet\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.csproj.CoreCompileInputs.cache
+C:\dotnet\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.csproj.CopyComplete
+C:\dotnet\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.dll
+C:\dotnet\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\bin\Debug\RepoServices.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\bin\Debug\RepoServices.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\bin\Debug\RepoModel.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\bin\Debug\RepoModel.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.csproj.AssemblyReference.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.csproj.CoreCompileInputs.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\obj\Debug\RepoServ.AE6A294B.Up2Date
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoServices\obj\Debug\RepoServices.pdb

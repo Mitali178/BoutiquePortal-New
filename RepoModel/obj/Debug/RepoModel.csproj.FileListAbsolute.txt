@@ -1,0 +1,12 @@
+C:\dotnet\Boutiqueportalm\RepoModel\bin\Debug\RepoModel.dll
+C:\dotnet\Boutiqueportalm\RepoModel\bin\Debug\RepoModel.pdb
+C:\dotnet\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.csproj.AssemblyReference.cache
+C:\dotnet\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.csproj.CoreCompileInputs.cache
+C:\dotnet\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.dll
+C:\dotnet\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoModel\bin\Debug\RepoModel.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoModel\bin\Debug\RepoModel.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.csproj.AssemblyReference.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.csproj.CoreCompileInputs.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoModel\obj\Debug\RepoModel.pdb

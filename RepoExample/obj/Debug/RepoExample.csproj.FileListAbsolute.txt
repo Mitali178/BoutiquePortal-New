@@ -1,0 +1,22 @@
+C:\dotnet\Boutiqueportalm\RepoExample\bin\Debug\RepoExample.dll
+C:\dotnet\Boutiqueportalm\RepoExample\bin\Debug\RepoExample.pdb
+C:\dotnet\Boutiqueportalm\RepoExample\bin\Debug\RepoModel.dll
+C:\dotnet\Boutiqueportalm\RepoExample\bin\Debug\RepoServices.dll
+C:\dotnet\Boutiqueportalm\RepoExample\bin\Debug\RepoModel.pdb
+C:\dotnet\Boutiqueportalm\RepoExample\bin\Debug\RepoServices.pdb
+C:\dotnet\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.csproj.AssemblyReference.cache
+C:\dotnet\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.csproj.CoreCompileInputs.cache
+C:\dotnet\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.csproj.CopyComplete
+C:\dotnet\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.dll
+C:\dotnet\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\bin\Debug\RepoExample.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\bin\Debug\RepoExample.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\bin\Debug\RepoModel.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\bin\Debug\RepoServices.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\bin\Debug\RepoModel.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\bin\Debug\RepoServices.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.csproj.AssemblyReference.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.csproj.CoreCompileInputs.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\obj\Debug\RepoExam.E036EA2F.Up2Date
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\RepoExample\obj\Debug\RepoExample.pdb

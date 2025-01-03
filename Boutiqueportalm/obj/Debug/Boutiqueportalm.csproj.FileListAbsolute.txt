@@ -1,0 +1,195 @@
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.dll.config
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.pdb
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.exe
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.exe.config
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.rsp
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.exe
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.exe.config
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.rsp
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.AppContext.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Console.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.Compression.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Net.Http.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Net.Sockets.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.ValueTuple.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XPath.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.exe
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.exe.config
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.rsp
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\VBCSCompiler.exe
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.AssemblyReference.cache
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.CoreCompileInputs.cache
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.CopyComplete
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.pdb
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\RepoExample.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\RepoModel.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\RepoServices.dll
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\RepoExample.pdb
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\RepoModel.pdb
+C:\dotnet\Boutiqueportalm\Boutiqueportalm\bin\RepoServices.pdb
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.dll.config
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.pdb
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.exe
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.exe.config
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.rsp
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.exe
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.exe.config
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.rsp
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.AppContext.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Console.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.Compression.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Net.Http.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Net.Sockets.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.ValueTuple.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XPath.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.exe
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.exe.config
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.rsp
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\VBCSCompiler.exe
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoExample.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoModel.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoServices.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoExample.pdb
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoModel.pdb
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoServices.pdb
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.AssemblyReference.cache
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.CoreCompileInputs.cache
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.CopyComplete
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.dll
+C:\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.dll.config
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Boutiqueportalm.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.exe
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.exe.config
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csc.rsp
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.exe
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.exe.config
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\csi.rsp
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.AppContext.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Collections.Immutable.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Console.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Globalization.Calendars.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.Compression.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.FileSystem.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Net.Http.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Net.Sockets.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Reflection.Metadata.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.ValueTuple.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XPath.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.exe
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.exe.config
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\vbc.rsp
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\VBCSCompiler.exe
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\roslyn\VBCSCompiler.exe.config
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoExample.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoModel.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoServices.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoExample.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoModel.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\RepoServices.pdb
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.AssemblyReference.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.csproj.CoreCompileInputs.cache
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutique.EEE72F98.Up2Date
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.dll
+C:\My Work\dotnet\Project\Boutiqueportalm\Boutiqueportalm\obj\Debug\Boutiqueportalm.pdb
